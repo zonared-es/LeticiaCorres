@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leticiacorres.com.br/sitemap.xml

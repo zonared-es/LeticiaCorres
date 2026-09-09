@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Netlify
+.netlify/
+
+# Dependências (não usadas neste projeto estático)
+node_modules/
